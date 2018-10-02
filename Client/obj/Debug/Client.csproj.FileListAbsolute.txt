@@ -1,0 +1,12 @@
+C:\Users\takoua\Desktop\Restaurant\Client\bin\Debug\Client.exe.config
+C:\Users\takoua\Desktop\Restaurant\Client\bin\Debug\Client.exe
+C:\Users\takoua\Desktop\Restaurant\Client\bin\Debug\Client.pdb
+C:\Users\takoua\Desktop\Restaurant\Client\bin\Debug\DAL.dll
+C:\Users\takoua\Desktop\Restaurant\Client\bin\Debug\EntityFramework.dll
+C:\Users\takoua\Desktop\Restaurant\Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\takoua\Desktop\Restaurant\Client\bin\Debug\DAL.pdb
+C:\Users\takoua\Desktop\Restaurant\Client\bin\Debug\EntityFramework.xml
+C:\Users\takoua\Desktop\Restaurant\Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\takoua\Desktop\Restaurant\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\takoua\Desktop\Restaurant\Client\obj\Debug\Client.exe
+C:\Users\takoua\Desktop\Restaurant\Client\obj\Debug\Client.pdb
